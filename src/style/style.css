@@ -49,10 +49,16 @@ body {
   padding: 36px;
   margin: 20px;
   list-style-type: none;
+  margin-left: 400px;
+}
+
+.menu_image {
+  display: flex;
+  margin-left: 400px;
 }
 
 a:hover {
-  color: rgb(216, 187, 255);
+  color: rgb(255, 255, 255);
 }
 
 .nav_title {
@@ -61,6 +67,7 @@ a:hover {
   line-height: 36px;
   margin: 38px;
   color: rgb(94, 46, 161);
+  margin-left: 400px;
 }
 
 .about {
@@ -73,6 +80,7 @@ a:hover {
 
 .about_image {
   flex: 400px;
+  margin-left: 100px;
 }
 
 .about_body {
